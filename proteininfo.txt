@@ -1,7 +1,7 @@
-Lysozyme            Chicken     LYSC_CHICK   P00698
-Lysozyme            Human       LYSC_HUMAN   P61626
-Hemoglobin-alpha    Human       HBA_HUMAN     P69905
-Hemoglobin-beta     Human       HBB_HUMNA     P68871
-PFKM		    Human	PFKAM_HUMAN   P08247
-Pfkm		    Mouse	PFKAM_MOUSE   P47857
-This is clearly another mistake!!!
+Lysozyme            Chicken     LYSC_CHICK    P00698      147
+Lysozyme            Human       LYSC_HUMAN    P61626      148
+Hemoglobin-alpha    Human       HBA_HUMAN     P69905  	  234
+Hemoglobin-beta     Human       HBB_HUMNA     P68871	  780
+PFKM		    Human	PFKAM_HUMAN   P08247      456
+Pfkm		    Mouse	PFKAM_MOUSE   P47857      789
+
